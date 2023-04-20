@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useState } from "react";
 import { Navbar, Container } from "react-bootstrap";
-
+import logo from '../../assets/img/logo.png';
 
 
 
